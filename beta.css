@@ -918,11 +918,13 @@
       display: none;
 }
 #app {
+
     background: url(http://i.imgur.com/a1Q59kw.jpg) fixed center / cover !important;
 
 
 }
-#p3-dj-booth {
+#p3-dj-booth {  
+        background: transparent;
         left: 20px;
         top: 90px;
 
