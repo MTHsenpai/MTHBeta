@@ -1,4 +1,4 @@
-{
+}
 
     "author": "mth",
     "colors": {
@@ -10,7 +10,6 @@
              "bouncer": "#FACC2E",
 
              "cohost": "#FF3300",
-
              "residentdj": "#04B404",
 
              "manager": "#0174DF",
@@ -33,7 +32,7 @@
 
         ],
 
-            "import": ["https://rawgit.com/MTHsenpai/MTHBeta/master/test.css"],
+            "import": ["https://rawgit.com/MTHsenpai/MTHBeta/master/beta.css"],
             "rule": {
             "#chat .mention": {
                 "border": "1px solid #ac76ff",
