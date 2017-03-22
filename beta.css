@@ -873,7 +873,7 @@
 }
 #chat .cm.mention .msg {
 	/*fix RCS*/
-	background: none !important;
+ 	background: none !important;
 }
 /*--[BOT]--*/
 #chat .cm.emote {
@@ -918,7 +918,7 @@
       display: none;
 }
 #app {
-    background: url(http://i.imgur.com/0pcVVO9.jpg) fixed center / cover !important;
+    background: url(http://i.imgur.com/1aw3xcd.png) fixed center / cover !important;
 
 
 }
