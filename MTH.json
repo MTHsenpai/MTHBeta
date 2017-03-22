@@ -1,11 +1,9 @@
   {
 
     "author": "mth",
-
-    "colors": {
+     "colors": {
 
         "background": "http://i.imgur.com/1aw3xcd.png",
-
         "chat": {
 
             "ambassador": "#84B423",
@@ -68,10 +66,7 @@
 
 	     },
 
-               
-
                 ".pop-menu": {
-
                  "background": "transparent"
 
                                   
@@ -498,7 +493,7 @@
 
         "background": "",
 
-         "booth": "http://i.imgur.com/XpyyvZf.png",
+         "booth": "",
 
         "icons": {
 
