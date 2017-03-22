@@ -13,10 +13,11 @@
         },
         "footer": "",
         "header": ""
-    },
-    "css": {
+      },
+        "css": {
         "font": [
-        ],
+     },
+        
         "import": ["https://rawgit.com/MTHsenpai/MTHBeta/master/beta.css"],
         "rule": {
             "#chat .mention": {
