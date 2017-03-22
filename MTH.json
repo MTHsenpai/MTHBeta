@@ -1,25 +1,43 @@
-}
+{
+
     "author": "mth",
+
     "colors": {
-        "background": "",
+
+        "background": "http://i.imgur.com/1aw3xcd.png",
+
         "chat": {
+
             "ambassador": "#84B423",
+
              "bouncer": "#FACC2E",
+
              "cohost": "#FF3300",
+
              "residentdj": "#04B404",
+
              "manager": "#0174DF",
+
              "host": "#FF3300",
+
              "message": "#99911D"
+
         },
+
         "footer": "",
+
         "header": ""
-      },
+
+        },
+
         "css": {
+
         "font": [
-     },
-        
-        "import": ["https://rawgit.com/MTHsenpai/MTHBeta/master/beta.css"],
-        "rule": {
+
+        ],
+
+            "import": ["https://rawgit.com/MTHsenpai/MTHBeta/master/test.css"],
+            "rule": {
             "#chat .mention": {
                 "border": "1px solid #ac76ff",
                 "border-left": "0px !important",
