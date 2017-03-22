@@ -1,4 +1,4 @@
-{
+ {
 
     "author": "mth",
 
@@ -36,7 +36,7 @@
 
         ],
 
-        "import": ["https://rawgit.com/MTHsenpai/MTHTest/master/test.css"],
+        "import": ["https://rawgit.com/MTHsenpai/MTHBeta/master/test.css"],
 
         "rule": {
 
