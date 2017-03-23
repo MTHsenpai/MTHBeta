@@ -925,6 +925,14 @@
 
 }
 
+#p3-dj-booth {
+      
+    background-image: url("https://api.plugcubed.net.proxy/http://i.imgur.com/AfVoVrS.png")
+        
+     left: 20px;
+     top: 110px;
+
+}
 
 #waitlist .list .user {
         background: transparent;
