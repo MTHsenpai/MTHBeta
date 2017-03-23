@@ -1,5 +1,6 @@
 round has a different djbooth
-}  
+
+  
 
     "author": "MTH",
      "colors": {
@@ -493,7 +494,7 @@ round has a different djbooth
     "images": {
 
         "background": "",
-         "booth": "http://i.imgur.com/KP1oXSz.png",
+         "booth": "",
          "icons": {
 
             "bouncer": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png",
