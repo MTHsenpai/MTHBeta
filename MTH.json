@@ -1,9 +1,11 @@
+
 }
 
   
 
     "author": "MTH",
-     "colors": {
+     "colors":
+}
 
         "background": "http://i.imgur.com/1aw3xcd.png",
         "chat": {
@@ -37,8 +39,7 @@
         ],
 
         "import": ["https://rawgit.com/MTHsenpai/MTHBeta/master/beta.css"],
-
-        "rule": {
+         "rule": {
 
             
 
@@ -485,12 +486,11 @@
 
                 "border": "0 !important"
 
-            }
+            },
 
-        }
+        
 
-    },
-
+  
         
 
          "images": {
