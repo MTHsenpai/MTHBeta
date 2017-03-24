@@ -1,4 +1,9 @@
 
+ #audience, #audience-canvas, #avatars-container, #dj-canvas, #room-settings-menu {
+    position: absolute;
+    left: 0;
+    top: -100px;
+
 
 
 }
