@@ -491,10 +491,11 @@ round has a different djbooth
 
     },
 
-    "images": {
+        
 
-        "background": "",
-         "booth": "",
+         "images": {
+         "background": "",
+         "booth": "http://i.imgur.com/Jf6Ybn3.png",
          "icons": {
 
             "bouncer": "http://icons.iconarchive.com/icons/morcha/rainbow/16/Yellow-icon.png",
@@ -535,7 +536,5 @@ round has a different djbooth
 
     }
 
-}
-Contact GitHub API Training Shop Blog About 
 
-© 2017 GitHub, Inc. Terms Privacy Security Status Help 
+
