@@ -1,5 +1,4 @@
 
-}
 #room-settings a:hover, #chat a:hover {
 	color: hsl(200,100%,55%) !important;
 	text-shadow: 0 0 5px;
@@ -466,8 +465,7 @@
 #user-rollover .meta.subscriber .thumb.large {
 	box-shadow: 0 0 15px hsl(45,80%,45%) !important;
 }
-#user-rollover .meta.online .status i {
-	display: none;
+#user-rollover .meta.online .status i {	display: none;
 }
 #user-rollover .meta.online .status span {
 	color: hsl(80,70%,50%);
@@ -504,6 +502,8 @@
 	background-position: -70px -140px;
 }
 #media-panel #playlist-activate-button.active span,
+
+
 #dialog-user-role .name {
 	color: #eee !important;
 }
@@ -926,10 +926,7 @@
 }
 
 #p3-dj-booth {
-      
-    background-image: url("http://i.imgur.com/Jf6Ybn3.png")
-        
-     left: 20px;
+     left: 10px;
      top: 110px;
 
 }
