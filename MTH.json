@@ -28,7 +28,7 @@
 
         ],
 
-        "import": ["https://rawgit.com/MTHsenpai/MTHBeta/master/mth.css"],
+        "import": ["https://rawgit.com/MTHsenpai/MTHBeta/master/beta.css"],
          "rule": {
    "#chat .mention": {
 
