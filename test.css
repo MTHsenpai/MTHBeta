@@ -3,23 +3,8 @@
     top: 15px;
     left: -33px;
     z-index: 5;
-    /* width: 100%; */
-    /* height: 100%; */
+    width: 237px;
     border-radius: 50px;
-}
-
-
-
-
-
-#playback {
-    width: 484px;
-    height: 271px;
-    left: 161px;
-    position: absolute;
-    top: 54px;
-    z-index: 2;
-
 
 
 }
