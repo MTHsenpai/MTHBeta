@@ -1,6 +1,10 @@
+#dj-booth {
+    position: absolute;
+    top: 48px;
+    left: 195px;
+    z-index: 2;
 
-
-
+}
 #audience, #audience-canvas, #dj-canvas {
     top: -90px;
 }
