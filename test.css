@@ -1,11 +1,13 @@
 
- #audience, #audience-canvas, #avatars-container, #dj-canvas, #room-settings-menu {
+ 
+
+#dj-booth, #dj-canvas {
+    width: 340px;
+    height: 291px;
+}
+#audience, #audience-canvas, #avatars-container, #dj-canvas, #room-settings-menu {
     position: absolute;
     left: -4px;
-}
-
-
-
 }
 #room-settings a:hover, #chat a:hover {
 	color: hsl(200,100%,55%) !important;
