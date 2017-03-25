@@ -4,11 +4,6 @@
 
 
 
-}
-#playback {
-   left: 2127px;
-   border-radius: 50px;
-   position: absolute;
 
 
 
@@ -18,7 +13,7 @@
 #sc-frame, #scvis-frame, #sync-frame, #yt-frame {
     position: absolute;
     top: 15px;
-    left: -323px;
+    left: 323px;
     z-index: 5;
     width: 237px;
     border-radius: 50px;
@@ -30,20 +25,6 @@
     width: 225px;
     height: 190px;
 
-
-
-
-
-}
-#dj-booth {
-    
-    top: 62px;
-    left: 252px;
-    z-index: 2;
-
-}
-#audience, #audience-canvas, #dj-canvas {
-    top: -90px;
 	
 }
 #audience, #audience-canvas {
