@@ -1,9 +1,12 @@
 
+#playback {
+   left: 214px;
 
 
 
 
 
+}
 #sc-frame, #scvis-frame, #sync-frame, #yt-frame {
     position: absolute;
     top: 15px;
