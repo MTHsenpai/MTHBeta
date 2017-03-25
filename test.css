@@ -7,14 +7,11 @@
 }
 #audience, #audience-canvas, #dj-canvas {
     top: -90px;
+	
 }
 #audience, #audience-canvas {
     top: -20px;
-    
-}
-#dj-booth, #dj-canvas {
-    width: 340px;
-    height: 352px;
+
 }
 #room-settings a:hover, #chat a:hover {
 	color: hsl(200,100%,55%) !important;
