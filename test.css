@@ -1,12 +1,37 @@
- #dj-booth, #dj-canvas {
-    width: 325px;
-    height: 290px;
+#sc-frame, #scvis-frame, #sync-frame, #yt-frame {
+    position: absolute;
+    top: 15px;
+    left: -33px;
+    z-index: 5;
+    /* width: 100%; */
+    /* height: 100%; */
+    border-radius: 50px;
 }
 
 
 
 
 
+#playback {
+    width: 484px;
+    height: 271px;
+    left: 161px;
+    position: absolute;
+    top: 54px;
+    z-index: 2;
+
+
+
+}
+#dj-booth, #dj-canvas {
+    width: 325px;
+    height: 290px;
+
+
+
+
+
+}
 #dj-booth {
     
     top: 92px;
