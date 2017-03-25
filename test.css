@@ -11,7 +11,7 @@
 
 }
 #sc-frame, #scvis-frame, #sync-frame, #yt-frame {
-    position: absolute;
+    
     top: 15px;
     left: 323px;
     z-index: 5;
