@@ -1,5 +1,11 @@
+
+
+
+
+
+}
 #sc-frame, #scvis-frame, #sync-frame, #yt-frame {
-    
+    position: absolute;
     top: 15px;
     left: -33px;
     z-index: 5;
