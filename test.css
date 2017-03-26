@@ -363,7 +363,8 @@
 }
 /*--[dj-button]--*/
 #dj-button {
-	border-radius: 50px;
+	position: absolute;
+        border-radius: 50px;
 	background: linear-gradient(hsla(220,100%,10%,0.2), hsla(220,100%,10%,0.2));
 	box-shadow: 0 0 2px #a4a4a4;
         left: -180.5px;
