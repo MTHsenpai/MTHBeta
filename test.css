@@ -378,7 +378,7 @@
 	background: linear-gradient(hsla(220,100%,10%,0.2), hsla(220,100%,10%,0.2));
 	box-shadow: 0 0 2px #a4a4a4;
         left: -180.5px;
-        top: 512px;
+        top: 812px;
 }
 #dj-button:hover {
 	background: linear-gradient(hsla(220,100%,30%,0.6), hsla(220,100%,50%,0.6));
@@ -404,6 +404,7 @@
 #woot, #grab, #meh {
 	margin-top: 0 !important; 
         left: 79px;           
+        top: 812px;
 }
 #vote .selected,
 #vote .selected .value {
