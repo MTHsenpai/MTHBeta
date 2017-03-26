@@ -365,7 +365,7 @@
 }
 /*--[dj-button]--*/
 #dj-button {
-	position: absolute;
+	
         border-radius: 50px;
 	background: linear-gradient(hsla(220,100%,10%,0.2), hsla(220,100%,10%,0.2));
 	box-shadow: 0 0 2px #a4a4a4;
