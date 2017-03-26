@@ -1,15 +1,8 @@
 
-#audience, #audience-canvas, #avatars-container, #dj-canvas, #room-settings-menu {
-    position: absolute;
-    left: 6px;
-
-}
-#audience, #audience-canvas, #dj-canvas {
-    top: 188px;
 
 
 
-}
+
 #room-settings a:hover, #chat a:hover {
 	color: hsl(200,100%,55%) !important;
 	text-shadow: 0 0 5px;
