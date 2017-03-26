@@ -1,11 +1,12 @@
+#sc-frame, #scvis-frame, #sync-frame, #yt-frame {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 5;
+    width: 143%;
+    height: 100%;
 
-
-
-
-
-
-
-
+    
 }
 #dj-booth, #dj-canvas {
     position: absolute;
