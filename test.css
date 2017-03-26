@@ -1,6 +1,10 @@
 
 
+#audience, #audience-canvas, #dj-canvas {
+    top: -48px;
 
+
+}
 #room-settings a:hover, #chat a:hover {
 	color: hsl(200,100%,55%) !important;
 	text-shadow: 0 0 5px;
