@@ -1,3 +1,75 @@
+.html5-main-video {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	outline: 0;
+        border-radius: 50px;
+}
+.html5-video-player .video-click-tracking, .html5-video-player .video-stream {
+	display: block;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+.html5-video-container {
+	z-index: 10;
+	position: relative;
+}
+.html5-video-player {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	overflow: hidden;
+	outline: 0;
+	font-family: Roboto,Arial,Helvetica,sans-serif;
+	color: #eee;
+	text-align: left;
+	direction: ltr;
+	font-size: 11px;
+	line-height: 1.3;
+	-webkit-font-smoothing: antialiased;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	touch-action: manipulation;
+	contain: strict;
+}
+.ytp-autohide {
+	cursor: none;
+}
+#player {
+	width: 100%;
+	height: 100%;
+}
+body {
+	font: 12px Roboto,Arial,sans-serif;
+	background-color: #000;
+	color: #fff;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+}
+html {
+	overflow: hidden;
+}
+</style>
+</head>
+<body class="date-20170326 en_US ltr  exp-responsive exp-scrollable-guide exp-search-big-thumbs   site-center-aligned site-as-giant-card  not-yt-legacy-css " dir="ltr"><div id="player" style="width: 100%; height: 100%;"><div tabindex="-1" class="html5-video-player ytp-hide-controls ytp-hide-info-bar ytp-small-mode playing-mode ytp-autohide" id="player_uid_566202199_1" aria-label="YouTube Video Player" data-version="/yts/jsbin/player-en_US-vflEzRdnB/base.js"><div class="html5-video-container" data-layer="0"><video tabindex="-1" class="video-stream html5-main-video" style="left: 1.16px; top: 0px; width: 411px; height: 231px;" src="blob:3DF2C4CA-1771-4264-B0CD-7D917805BFD3" webkit-playsinline="" playsinline=""></video></div></div></div></body>
+</html>
+
+}
+
+
+
+
+
+
+
+
 
 #room-settings a:hover, #chat a:hover {
 	color: hsl(200,100%,55%) !important;
